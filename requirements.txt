@@ -8,4 +8,4 @@ scikit-learn
 plotly
 cufflinks
 Pillow
-streamlit.components.v1
+#streamlit.components.v1
